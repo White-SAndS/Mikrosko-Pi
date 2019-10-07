@@ -15,6 +15,8 @@ Was wird benötigt:
 
 -Bildschirm für den RaspberryPi
 
+-natürlich eine Kamera passend zum RaspberryPi
+
 -ein PC mit dem man die uSD Karte beschreiben kann
 
 -ein wenig Geduld und Einfühlungsvermögen
