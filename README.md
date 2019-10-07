@@ -5,13 +5,15 @@ Die grosse Zahl an USB-Mikroskopen mit sehr simplen Keyhole-Optiken macht es vor
 
 Was wird benötigt:
 
--RaspberryPi 
+-RaspberryPi, nahezu egal was für einer. Ein PiZero geht hervorragend. 
 
 -uSD Karte ab 4GB
 
--Netzteil für de RaspberryPi oder andere Stromversorgung
+-Netzteil für den RaspberryPi oder andere Stromversorgung
 
 -Tastatur für den RaspberryPi
+
+-Bildschirm für den RaspberryPi
 
 -ein PC mit dem man die uSD Karte beschreiben kann
 
