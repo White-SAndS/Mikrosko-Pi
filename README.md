@@ -6,10 +6,14 @@ Die grosse Zahl an USB-Mikroskopen mit sehr simplen Keyhole-Optiken macht es vor
 Was wird benötigt:
 
 -RaspberryPi 
+
 -uSD Karte ab 4GB
+
 -Netzteil für de RaspberryPi oder andere Stromversorgung
+
 -Tastatur für den RaspberryPi
 
 -ein PC mit dem man die uSD Karte beschreiben kann
+
 -ein wenig Geduld und Einfühlungsvermögen
 
