@@ -16,6 +16,7 @@ Was wird benötigt:
 -Bildschirm für den RaspberryPi
 
 -natürlich eine Kamera passend zum RaspberryPi
+
     Optimal ist eine Kamera mit hoher Auflösung UND der Möglichkeit das Objektiv zu wechseln.
     Ich verwende Objektive im Bereich zwischen 8mm und 25mm Brennweit. Diese Objektive sollten, im Sinne von müssen, ein UV/IR-Sperrfilter 
     besitzen oder der Objektivhalter bzw. die Kamera sollte, im Sinne von müssen, ein Sperrfilter eingebaut haben.
