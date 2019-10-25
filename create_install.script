@@ -1,10 +1,6 @@
 #!/bin/bash
 
 tar cvf /boot/setup.tar /home/pi/.profile 
-#/home/pi/.bashrc 
 tar rvf /boot/setup.tar /home/pi/tarpi9**.py /home/pi/.hushlogin
 tar rvf /boot/setup.tar /boot/config.txt 
-#/boot/cmdline.txt
-#tar rvf /boot/setup.tar /etc/systemd/system/getty@tty1.service.d/autologin.conf
-#tar rvf /boot/setup.tar /usr/share/plymouth/themes/pix/pix.script
 
