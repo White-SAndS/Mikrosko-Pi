@@ -15,17 +15,11 @@ apt-get -y upgrade
 apt-get -y autoremove
 apt-get -y autoclean
 
-#cp /usr/share/plymouth/themes/pix/pix.script /usr/share/plymouth/themes/pix/pix.script.archive
 mv /usr/share/plymouth/themes/pix/splash.png /usr/share/plymouth/themes/pix/splash.png.archive
-#cp /etc/systemd/system/getty@tty1.service.d/autologin.conf /etc/systemd/system/getty@tty1.service.d/autologin.conf.archive
 cp /home/pi/.profile /home/pi/.profile.archive
-#cp /home/pi/.bashrc /home/pi/.bashrc.archive
 cp /boot/config.txt /boot/config.txt.archive
-#cp /boot/cmdline.txt /boot/cmdline.txt.archive
 tar xvf /boot/setup.tar -C /
-#mv /usr/share/plymouth/themes/pix/splash.png /usr/share/plymouth/themes/pix/splash.png.archive
 cp /boot/tarpi.png /usr/share/plymouth/themes/pix/splash.png
-#cp /boot/mikroskopi.png /usr/share/plymouth/themes/pix/splash.png
 ln /home/pi/tarpi9**.py /home/pi/tarpi.py
 cd /home/pi
 #sudo -u pi ./tarpi.py
