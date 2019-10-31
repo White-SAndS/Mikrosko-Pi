@@ -36,7 +36,7 @@ Nebenbei hat sich noch ein anderer Zweck ergeben, die [Digiskopie](https://de.wi
 
 -Bildschirm für den RaspberryPi (vorhandener Bildschirm 0€, kleiner HD Bildschirm mit HDMI so ab 100€)
 
--natürlich eine Kamera passend zum RaspberryPi (etwa ab 25€, wenn etwas bessere Auflösung gefragt ist dann [Arducam](https://www.arducam.com/product/arducam-raspberry-pi-camera-v2-8mp-ixm219-b0103/ allerdingens dann auch teurer für etwa 80€)
+-natürlich eine Kamera passend zum RaspberryPi (etwa ab 25€, wenn etwas bessere Auflösung gefragt ist dann [Arducam](https://www.arducam.com/product/arducam-raspberry-pi-camera-v2-8mp-ixm219-b0103/) allerdingens dann auch teurer für etwa 80€)
 
     Optimal ist eine Kamera mit hoher Auflösung UND der Möglichkeit das Objektiv zu wechseln.
     Ich verwende Objektive im Bereich zwischen 8mm und 25mm Brennweite. Diese Objektive sollten, im Sinne von müssen, ein UV/IR-Sperrfilter 
