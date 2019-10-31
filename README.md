@@ -54,13 +54,13 @@ Gesamtkosten: ab 75€ und nach oben offen
 
 Es gibt wie immer 3 Wege:
 
-1. the good:
+1. the [good](/good.md):
     selber zusammen tippern
 
-2. the bad:
+2. the [bad](/bad.md):
     vorbereitetes Archiv auf eine selbst vorbereitete uSD mit Raspbian Buster lite kopieren und ein bisschen tippern
 
-3. the ugly:
+3. the [ugly](ugly.md):
     vorbereitete angepasste Raspbian Buster lite Images auf eine uSD Karte kopieren, in den Raspi stecken, Kamera anschliessen, Netzteil, Display, Tastatur anschliessen und booten, nochmal booten lassen nach der Filesystemexpansion und fertig
 
     -[Tarpi](https://github.com/White-SAndS/Mikrosko-Pi/releases/download/v0.994r/MikroskopiSetupRevisedSplash.img.gz)
