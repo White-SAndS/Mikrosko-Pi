@@ -3,12 +3,12 @@ RaspberryPi als elektronisches Betrachtungs- und Bestückungsmikroskop mit klein
 
 Die grosse Zahl an USB-Mikroskopen mit sehr simplen Keyhole-Optiken macht es vor. Auch wenn ich die Vergrösserungen immer nicht so recht glauben kann, sie funktionieren und das recht akzeptabel. Mir aber leider nicht gut genug.
 
-# Warum:
+## Warum:
 
-Ich brauchte ein "Arbeitsplatzmikroskop" mit flexibler Vergrösserung und relativ grossem Arbeitsabstand. Die Preise für echte Mikroskope sind auch echt gesalzen, vor allem bei grossem Arbeitsabstand, und wirklich handlich sind sie nicht. Da ich mal irgendwann in meiner Vergangenheit über Makroobjektive für Kameras gestolpert bin ( https://de.wikipedia.org/wiki/Makro-Objektiv ) und ich schon ein bisschen Erfahrung mit dem RaspberryPi und dessen Kamera sammeln durfte, vor allem dessen Echtzeitfähigkeit, was lag da näher als genau dieses System zu benutzen.
-Nebenbei hat sich noch ein anderer Zweck ergeben, die Digiskopie ( https://de.wikipedia.org/wiki/Digiskopie ). Beide gemeinsam haben den Hardware- und Softwareunterbau. Interessanterweise benötigen sie die selben Features. 
+Ich brauchte ein "Arbeitsplatzmikroskop" mit flexibler Vergrösserung und relativ grossem Arbeitsabstand. Die Preise für echte Mikroskope sind auch echt gesalzen, vor allem bei grossem Arbeitsabstand, und wirklich handlich sind sie nicht. Da ich mal irgendwann in meiner Vergangenheit über [Makroobjektive](https://de.wikipedia.org/wiki/Makro-Objektiv) für Kameras gestolpert bin und ich schon ein bisschen Erfahrung mit dem RaspberryPi und dessen Kamera sammeln durfte, vor allem dessen Echtzeitfähigkeit, was lag da näher als genau dieses System zu benutzen.
+Nebenbei hat sich noch ein anderer Zweck ergeben, die [Digiskopie](https://de.wikipedia.org/wiki/Digiskopie). Beide gemeinsam haben den Hardware- und Softwareunterbau. Interessanterweise benötigen sie die selben Features. 
 
-# Features:
+## Features:
 
 -nahezu Echtzeitanzeige mit sehr geringer Latenz, etwa 130ms, so das selbst das Bestücken von Leiterplatten funktioniert
 
@@ -24,7 +24,7 @@ Nebenbei hat sich noch ein anderer Zweck ergeben, die Digiskopie ( https://de.wi
 
 -rudimentäres sehr einfaches OSD für die Bedienung
 
-# Was wird benötigt:
+## Was wird benötigt:
 
 -RaspberryPi, nahezu egal was für einer. Ein PiZero geht hervorragend. (PiZero 15-20€)
 
@@ -36,7 +36,7 @@ Nebenbei hat sich noch ein anderer Zweck ergeben, die Digiskopie ( https://de.wi
 
 -Bildschirm für den RaspberryPi (vorhandener Bildschirm 0€, kleiner HD Bildschirm mit HDMI so ab 100€)
 
--natürlich eine Kamera passend zum RaspberryPi (etwa ab 25€, wenn etwas bessere Auflösung gefragt ist dann Arducam https://www.arducam.com/product/arducam-raspberry-pi-camera-v2-8mp-ixm219-b0103/ allerdingens dann auch teurer für etwa 80€)
+-natürlich eine Kamera passend zum RaspberryPi (etwa ab 25€, wenn etwas bessere Auflösung gefragt ist dann [Arducam](https://www.arducam.com/product/arducam-raspberry-pi-camera-v2-8mp-ixm219-b0103/ allerdingens dann auch teurer für etwa 80€)
 
     Optimal ist eine Kamera mit hoher Auflösung UND der Möglichkeit das Objektiv zu wechseln.
     Ich verwende Objektive im Bereich zwischen 8mm und 25mm Brennweite. Diese Objektive sollten, im Sinne von müssen, ein UV/IR-Sperrfilter 
@@ -50,7 +50,7 @@ Nebenbei hat sich noch ein anderer Zweck ergeben, die Digiskopie ( https://de.wi
 
 Gesamtkosten: ab 75€ und nach oben offen
 
-# Installation
+## Installation:
 
 Es gibt 3 Wege:
 
@@ -60,9 +60,9 @@ Es gibt 3 Wege:
 
 3. vorbereitete angepasste Raspbian Buster lite Images auf eine uSD Karte kopieren, in den Raspi stecken, Kamera anschliessen, Netzteil, Display, Tastatur anschliessen und booten, nochmal booten lassen nach der Filesystemexpansion und fertig
 
-    https://github.com/White-SAndS/Mikrosko-Pi/releases/download/v0.994r/MikroskopiSetupRevisedSplash.img.gz
+    -[Tarpi](https://github.com/White-SAndS/Mikrosko-Pi/releases/download/v0.994r/MikroskopiSetupRevisedSplash.img.gz)
     
-    https://github.com/White-SAndS/Mikrosko-Pi/releases/download/v0.994r/TarpiSetupRevisedSplash.img.gz
+    -[Mikrosko-Pi](https://github.com/White-SAndS/Mikrosko-Pi/releases/download/v0.994r/TarpiSetupRevisedSplash.img.gz)
     
 Beide Images unterscheiden sich lediglich in der Wahl des Splash-Images. Wie schon beschrieben, der Hardware und Softwareunterbau ist gleich. Nur der Einsatzzweck unterscheidet sich geringfügig. Einmal Makrofotografie und dann Digiskopie.    
 
