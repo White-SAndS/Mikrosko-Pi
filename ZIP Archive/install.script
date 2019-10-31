@@ -20,6 +20,7 @@ cp /home/pi/.profile /home/pi/.profile.archive
 cp /boot/config.txt /boot/config.txt.archive
 tar xvf /boot/setup.tar -C /
 cp /boot/tarpi.png /usr/share/plymouth/themes/pix/splash.png
+#cp /boot/mikroskopi.png /usr/share/plymouth/themes/pix/splash.png
 ln /home/pi/tarpi9**.py /home/pi/tarpi.py
 cd /home/pi
 #sudo -u pi ./tarpi.py
