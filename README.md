@@ -52,13 +52,16 @@ Gesamtkosten: ab 75€ und nach oben offen
 
 ## Installation:
 
-Es gibt 3 Wege:
+Es gibt wie immer 3 Wege:
 
-1. selber zusammen tippern
+1. the good:
+    selber zusammen tippern
 
-2. vorbereitetes Archiv auf eine selbst vorbereitete uSD mit Raspbian Buster lite kopieren und ein bisschen tippern
+2. the bad:
+    vorbereitetes Archiv auf eine selbst vorbereitete uSD mit Raspbian Buster lite kopieren und ein bisschen tippern
 
-3. vorbereitete angepasste Raspbian Buster lite Images auf eine uSD Karte kopieren, in den Raspi stecken, Kamera anschliessen, Netzteil, Display, Tastatur anschliessen und booten, nochmal booten lassen nach der Filesystemexpansion und fertig
+3. the ugly:
+    vorbereitete angepasste Raspbian Buster lite Images auf eine uSD Karte kopieren, in den Raspi stecken, Kamera anschliessen, Netzteil, Display, Tastatur anschliessen und booten, nochmal booten lassen nach der Filesystemexpansion und fertig
 
     -[Tarpi](https://github.com/White-SAndS/Mikrosko-Pi/releases/download/v0.994r/MikroskopiSetupRevisedSplash.img.gz)
     
