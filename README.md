@@ -63,4 +63,6 @@ Es gibt 3 Wege:
     https://github.com/White-SAndS/Mikrosko-Pi/releases/download/v0.994r/MikroskopiSetupRevisedSplash.img.gz
     
     https://github.com/White-SAndS/Mikrosko-Pi/releases/download/v0.994r/TarpiSetupRevisedSplash.img.gz
+    
+Beide Images unterscheiden sich lediglich in der Wahl des Splash-Images. Wie schon beschrieben, der Hardware und Softwareunterbau ist gleich. Nur der Einsatzzweck unterscheidet sich geringfügig. Einmal Makrofotografie und dann Digiskopie.    
 
