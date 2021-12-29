@@ -1,3 +1,7 @@
+Leider hat sich die Raspberry Pi Foundation dazu entschlossen den VC nicht mehr in der bisherigen Form zu unterstützen. Deshalb funktioniert das Pythonscript auf Images ab Mitte des Jahres 2021 nicht mehr ohne viel Aufwand zu betreiben und es ist zu befürchten das ein einfacher Tausch von den hochoptimierten low Lag fähigen integrierten Funktionen des VC zu den allgemeineren jetzt aber in den CPU Cores auszuführenden Kernelfunktionen zu erhöhtem Lag führen wird und oder mehr CPU Power erfordern wird. Deswegen: 
+# Entwicklung eingefroren
+
+
 # Mikrosko-Pi
 RaspberryPi als elektronisches Betrachtungs- und Bestückungsmikroskop mit kleinen Gimmicks 
 
